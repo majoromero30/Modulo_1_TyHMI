@@ -16,8 +16,3 @@
 
 *Ejercicio 6:* Creación de un archivo con metadatos en el entorno R
 
-
-(prueba tabla) 
-| Nombre | Apellido | Correo | Whatsapp |
-|:----------|:----------|:----------|:----------|
-| María | Romero | majoromeroatencio@gmail.com | 2614666253 |
