@@ -14,7 +14,9 @@ En la parte superior de la página podemos escoger la opción "+Texto", esto nos
 
 - **Paso 3: Código**
 
-Al lado de "+Texto" esta la opción "+Código", al hacer click allí podremos empezar a programar nosotros mismos o crear un código con inteligencia artificial. Ejemplos sencillos de código:
+Al lado de "+Texto" esta la opción "+Código", al hacer click allí podremos empezar a programar nosotros mismos o crear un código con inteligencia artificial. 
+
+Ejemplos sencillos de código:
 
 <img width="250" height="130" alt="Captura de pantalla 2026-03-12 120534" src="https://github.com/user-attachments/assets/48ebd1e8-1ba5-4669-8bcf-5928cb9149fb" />
 
