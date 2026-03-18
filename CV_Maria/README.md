@@ -1,2 +1,2 @@
-#Entrega CV utilizando la plantilla LaTeX
+# Entrega CV utilizando la plantilla LaTeX
 
