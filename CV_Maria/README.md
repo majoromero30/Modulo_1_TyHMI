@@ -1,6 +1,6 @@
 # Entrega CV utilizando la plantilla LaTeX
 
-Los archivos pueden ser encontrados mediante los siguientes links o descargados directamente desde los archivos en la carpeta CV_Maria
+Los archivos pueden ser encontrados mediante los siguientes atajos
 
 [Descargar mi CV en PDF](./CV_MARIA.pdf)
 
